@@ -3,3 +3,4 @@ requests>=2.32
 python-dotenv>=1.0
 Pillow>=11.0
 flask-cors>=5.0
+gunicorn
